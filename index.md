@@ -1,3 +1,14 @@
+## Portifolio
+
+### Formação
+
+- Licenciado em Física pela UENF
+- Engenheiro de Automaçao pelo IFF
+
+
+
+
+
 ## Welcome to GitHub Pagess
 
 You can use the [editor on GitHub](https://github.com/TavaresDev/tavaresdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
